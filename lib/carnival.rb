@@ -43,10 +43,4 @@ class Carnival
     end
     revenue
   end
-
-  # def self.total_revenues
-  #   total_revenues = 0
-  #   total_revenues += self.method.total_revenue
-  #   total_revenues
-  # end
 end
