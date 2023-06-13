@@ -19,14 +19,4 @@ class Ride
       p "This visitor is unable to ride."
     end
   end
-
-  
-
-  def tall_enough?(height)
-    if @height >= height
-      true
-    else
-      false
-    end
-  end
 end
